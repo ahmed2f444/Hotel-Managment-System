@@ -1,6 +1,0 @@
-Ahmed Mostafa,ahmed22,22,admin
-ahmed,ahmeed22,22,receptionist
-ahmed mostafa,ahmed23,23,receptionist
-ahmed mostafa,ahme23,23,admin
-ahmedmostafa,ahmed24,24,admin
-Ahmed Mostafa,ahmed,dodokoko356,admin
