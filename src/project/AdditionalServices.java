@@ -6,12 +6,6 @@ public class AdditionalServices {
     private String serviceName;       // Name of the service
     private double servicePrice;         // Price of the service
 
-    /**
-     * Constructor for AdditionalServices.
-     *
-     * @param name  Name of the service.
-     * @param price Price of the service.
-     */
     public AdditionalServices(String name, int price) {
         this.serviceId = idCounter++; // Generate unique ID
         this.serviceName = name;
