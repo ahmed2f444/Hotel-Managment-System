@@ -1,0 +1,12 @@
+Room,12,single,150.0,Available
+Room,14,single,120.0,Available
+Room,33,single,120.0,Available
+Room,20,double,200.0,Available
+Room,14,8767969,8767.0,Available
+Service,11,cleaning,10.0
+Service,12,sweeping,10.0
+Service,13,massage,20.0
+Service,14,dance,50.0
+Service,15,arcade games,30.0
+Service,16,hotpool,50.0
+Service,17,cyber,20.0
